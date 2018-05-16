@@ -3,7 +3,7 @@ import cv2
 import os
 import numpy as np
 
-subject = ["", "Nathan Worstell", "Scott Worstell"]
+subject = ["", "subject2", "subject1"]
 saved_model_path = 'saved_model/smart_doorbell_model.yaml'
 test_data_path = 'test_data/'
 
